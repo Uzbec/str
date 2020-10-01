@@ -1,4 +1,4 @@
-from str import ft_reverse_str as rev
+import ft_reverse_str as rev
 
 
 def ft_equal_reverse(str):

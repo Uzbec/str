@@ -1,4 +1,4 @@
-from str import ft_len as lenn
+import ft_len as lenn
 
 
 def ft_first_end_three(a):

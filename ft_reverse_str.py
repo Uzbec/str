@@ -1,4 +1,4 @@
-from str import ft_len as l
+import ft_len as l
 
 
 def ft_reverse_str(str):

@@ -1,4 +1,4 @@
-from str import ft_len as l
+import ft_len as l
 
 
 def ft_cmp_str(str1, str2, num):
